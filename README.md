@@ -129,3 +129,6 @@ of the agent
 Let should the Essay writer, the architecture is shown in the figure.
 
 ![essay-writer](images/essay-writer.png)
+
+Refer to this notebook for the implementation
+[essay-writer](5-essay-writer.ipynb)
